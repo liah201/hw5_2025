@@ -31,7 +31,7 @@ header {
 .nav_links {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  /* gap: 10px; */
 }
 
 a:link,
@@ -50,7 +50,7 @@ a:visited {
 
 .card {
   flex-basis: 450px;
-  max-width: 90%;
+  max-width: 100%;
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
   z-index: 10;
